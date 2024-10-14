@@ -5,7 +5,7 @@ go 1.18.0
 require (
 	github.com/caddyserver/caddy/v2 v2.4.1
 	github.com/john-k/dnsmadeeasy v1.1.0
-	github.com/libdns/dnsmadeeasy v1.1.2-0.20240605214902-b062c4fecf51
+	github.com/libdns/dnsmadeeasy v1.1.2
 )
 
 require (
