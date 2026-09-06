@@ -5,7 +5,7 @@ go 1.18.0
 require (
 	github.com/caddyserver/caddy/v2 v2.4.1
 	github.com/john-k/dnsmadeeasy v1.1.0
-	github.com/libdns/dnsmadeeasy v1.1.3
+	github.com/libdns/dnsmadeeasy v1.2.1
 )
 
 require (
@@ -16,7 +16,7 @@ require (
 	github.com/golang/protobuf v1.4.3 // indirect
 	github.com/google/uuid v1.2.0 // indirect
 	github.com/klauspost/cpuid/v2 v2.0.6 // indirect
-	github.com/libdns/libdns v0.2.2 // indirect
+	github.com/libdns/libdns v1.1.1 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.1 // indirect
 	github.com/mholt/acmez v0.1.3 // indirect
 	github.com/miekg/dns v1.1.30 // indirect
